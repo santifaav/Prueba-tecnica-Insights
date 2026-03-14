@@ -451,6 +451,8 @@ INICIO → INTENCIÓN → RECOPILACIÓN → ROUTING_LOOKUP
 
     Tambien tiene un link de YouTube, con el chatbot de telegram para tambien ver su correcto funcionamiento: https://youtu.be/7LkPVGCboxU?si=_njUDiLJk_41Hjvs
 
+    Tambien se realizo una ejecucion del agente, en una pagina web (similar a INSIGHTS WM), para atender a los clientes unicamente sobre sus depositos ACH, aqui se puede ejecutar un agente de voz en la esquina inferior derecha y este le ayuda a sus transaccion ACH, el link de la pagina web es: https://insights-ai-landing.lovable.app
+
     Reflexion: 
     Construir este agente me permitió entender en la práctica la diferencia entre
     un chatbot que responde preguntas y un agente que guía un proceso con lógica
