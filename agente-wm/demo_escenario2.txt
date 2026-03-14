@@ -1,0 +1,127 @@
+Script started on Fri Mar 13 12:26:57 2026
+[1m[7m%[27m[1m[0m                                                                                                                                                        [0m[27m[24m[J(base) santiagofajardoavendano@Santiagos-MacBook-Pro-7 agente-wm % [K[?2004h[7mpython3 agent.py[27m[16D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27ma[27mg[27me[27mn[27mt[27m.[27mp[27my[?2004l
+============================================================
+  Insights ACH Funding Assistant
+  Session ID: 031ee4ec
+  Type 'exit' to end  |  'history' to review  |  '--session <id>' to resume
+============================================================
+
+Assistant: Hello! I'm your Insights ACH Funding Assistant, and I'm here to help you fund your Insights investment account via ACH bank transfer. 
+
+Just to confirm - you'd like to set up funding from your bank account to your Insights account, correct? This process involves linking your bank account and then transferring funds electronically.
+
+If that sounds right, I'll walk you through the entire process step by step!
+
+
+You: Carlos Mendez
+
+Assistant: Hi Carlos! Nice to meet you. 
+
+Perfect - I'll help you get your Insights account funded via ACH bank transfer. To get started, I'll need to collect some information from you to make this process smooth and secure.
+
+First, I need to know: **What's the name of your bank?** (For example: Chase, Bank of America, Wells Fargo, etc.)
+
+You: Wells Fargo
+
+Assistant: Great, Wells Fargo is a major bank we work with regularly.
+
+Next, I need to know: **What state is your Wells Fargo bank account registered in?** This helps me find the correct routing number for your account.
+
+You: California
+
+  [🔍 Lookup: Wells Fargo / California → 121042882]
+
+Assistant: Great! For Wells Fargo in California, the routing number is **121042882**.
+
+I recommend double-checking this routing number with your Wells Fargo mobile app or a check from this account to make sure it matches, as routing numbers can sometimes vary by region or account type.
+
+Now I need a few more pieces of information:
+
+**What's your Wells Fargo account number?** (This will be used to link your bank account to Insights)
+
+You: 9988776655
+
+Assistant: Perfect, I have your account number as 9988776655.
+
+Next: **Is this a checking account or a savings account?**
+
+You: savings
+
+Assistant: Excellent! Now for the final piece of information:
+
+**How much would you like to transfer to fund your Insights account?** (The minimum is $50 and maximum is $250,000 per transaction)
+
+You: 100000
+
+Assistant: Perfect! I have all the information needed. Let me summarize what we have:
+
+**Your Funding Details:**
+- Name: Carlos Mendez
+- Bank: Wells Fargo (California)
+- Routing Number: 121042882
+- Account Number: 9988776655
+- Account Type: Savings
+- Funding Amount: $100,000
+
+Now, here are your **step-by-step funding instructions**:
+
+**Step 1:** Log in to your Insights account at app.insightsinvest.com
+
+**Step 2:** Navigate to Funding > Add Bank Account
+
+**Step 3:** Enter your bank details:
+- Bank Name: Wells Fargo
+- Routing Number: 121042882
+- Account Number: 9988776655
+- Account Type: Savings
+
+**Step 4:** Insights will send 2 small micro-deposits (less than $1 each) to your Wells Fargo savings account within 1-2 business days
+
+**Step 5:** Once you see those micro-deposits, return to Funding > Verify Account and enter both exact amounts
+
+**Step 6:** After verification, go to Fund Account, enter $100,000, and confirm the transfer
+
+**Step 7:** Your funds will be available in 3-5 business days via Standard ACH, or same day if you submit before 1 PM ET and qualify for Same-Day ACH
+
+**Expected Timeline:** Your $100,000 should be available in your Insights account within 3-5 business days after you initiate the transfer.
+
+If you need any assistance during this process, contact support@insightsinvest.com or call 1-800-INSIGHTS.
+
+Do you have any questions about these steps, Carlos?
+
+You: sí, todo correcto
+
+Assistant: ¡Perfecto, Carlos! Me alegra saber que todo está correcto.
+
+**Resumen de tu transferencia:**
+- $100,000 de Wells Fargo (California) a tu cuenta de Insights
+- Fondos disponibles en 3-5 días hábiles
+- Comenzar en app.insightsinvest.com
+
+Si necesitas ayuda durante el proceso, puedes contactar:
+- Email: support@insightsinvest.com 
+- Teléfono: 1-800-INSIGHTS
+
+¡Que tengas un excelente día y gracias por elegir Insights Investment Platform!
+
+You: me llegó un error R01 en la transferencia
+
+Assistant: Carlos, tu banco devolvió el código R01 — Fondos Insuficientes. Esto significa que el saldo en tu cuenta de Wells Fargo era menor que los $100,000 que intentaste transferir.
+
+**Lo que puedes hacer:**
+- Verifica el saldo de tu cuenta de ahorros de Wells Fargo
+- Intenta de nuevo con una cantidad menor
+- O espera hasta que tengas suficientes fondos en tu cuenta
+
+**Buenas noticias:** No se te ha cobrado ninguna comisión en tu cuenta de Insights por esta transferencia fallida.
+
+Una vez que tengas fondos suficientes, puedes iniciar una nueva transferencia siguiendo los mismos pasos que te expliqué anteriormente.
+
+¿Te gustaría intentar con una cantidad menor, o prefieres esperar hasta tener más fondos disponibles en tu cuenta?
+
+You: exit
+\
+Assistant: Thank you for using Insights! Session saved. Your ID is: 031ee4ec
+[1m[7m%[27m[1m[0m                                                                                                                                                        [0m[27m[24m[J(base) santiagofajardoavendano@Santiagos-MacBook-Pro-7 agente-wm % [K[?2004h\\exit''''[?2004l
+
+Script done on Fri Mar 13 12:28:25 2026

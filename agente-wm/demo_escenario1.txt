@@ -1,0 +1,104 @@
+Script started on Fri Mar 13 12:24:58 2026
+[1m[7m%[27m[1m[0m                                                                                                                                                       
+ 
+
+[0m[27m[24m[J(base) santiagofajardoavendano@Santiagos-MacBook-Pro-7 agente-wm % [K[?2004h[7mpython3 agent.py[27m[16D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27ma[27mg[27me[27mn[27mt[27m.[27mp[27my[?2004l
+
+============================================================
+  Insights ACH Funding Assistant
+  Session ID: 578060cf
+  Type 'exit' to end  |  'history' to review  |  '--session <id>' to resume
+============================================================
+
+Assistant: Hello! I'm your Insights ACH Funding Assistant, and I'm here to help you fund your Insights investment account via ACH bank transfer. 
+
+To get started, I'll need to collect some information from you to ensure a smooth funding process. 
+
+First, could you please tell me your **full legal name** as it appears on your bank account?
+
+
+You: Santiago Fajardo
+
+Assistant: Great to meet you, Santiago! 
+
+Now I'll need some information about your bank account. What is the **name of your bank** (for example, Bank of America, Wells Fargo, Chase, etc.)?
+
+You: Bank of America
+
+Assistant: Perfect, Santiago. Now I need to know which **state** your Bank of America account is registered in. This could be where you opened the account or where your branch is located.
+
+Which state is your bank account in?
+
+You: Texas
+
+  [🔍 Lookup: Bank of America / Texas → 026009593]
+
+Assistant: Excellent, Santiago! I found that the routing number for Bank of America in Texas is **026009593**. I recommend double-checking this with your Bank of America mobile app or a check from your account to make sure it matches.
+
+Now I'll need your **bank account number**. What is the account number you'd like to use for funding?
+
+You: 1234567890
+
+Assistant: Thank you, Santiago. Next, I need to know what type of account this is. Is account number 1234567890 a **checking account** or a **savings account**?
+
+You: checking
+
+Assistant: Perfect! Now, what **amount** would you like to fund your Insights account with? (The minimum is $50 and maximum is $250,000 per transaction.)
+
+You: 5000
+
+Assistant: Excellent, Santiago! I have all the information I need. Here's your funding summary:
+
+**Your Information:**
+- Name: Santiago Fajardo
+- Bank: Bank of America (Texas)
+- Routing Number: 026009593
+- Account: Checking account ending in 7890
+- Funding Amount: $5,000
+
+Now let me walk you through the step-by-step process to fund your account:
+
+**Step 1:** Log in to your account at app.insightsinvest.com
+
+**Step 2:** Navigate to Funding > Add Bank Account
+
+**Step 3:** Enter your bank information:
+- Bank Name: Bank of America
+- Routing Number: 026009593
+- Account Number: 1234567890
+- Account Type: Checking
+
+**Step 4:** Insights will send 2 small micro-deposits (less than $1 each) to your account within 1-2 business days
+
+**Step 5:** Once you see the micro-deposits, return to Funding > Verify Account and enter both amounts
+
+**Step 6:** Go to Fund Account, enter $5,000, and confirm the transfer
+
+**Step 7:** Your funds will be available in 3-5 business days with Standard ACH, or same day if you submit before 1 PM ET and qualify for Same-Day ACH
+
+**Expected Timeline:** Your $5,000 should be available in your Insights account within 3-5 business days after you complete the transfer.
+
+If you need any assistance during this process, you can reach our support team at support@insightsinvest.com or 1-800-INSIGHTS.
+
+Is there anything else about the funding process I can help clarify for you, Santiago?
+
+You: sí, todo correcto
+
+Assistant: ¡Perfecto, Santiago! Me alegra saber que todo está claro.
+
+Recuerda verificar el número de ruta 026009593 con tu app de Bank of America o con un cheque para asegurarte de que coincida.
+
+Si tienes alguna pregunta durante el proceso de financiación, nuestro equipo de soporte está disponible en support@insightsinvest.com o 1-800-INSIGHTS.
+
+¡Que tengas un excelente día y gracias por elegir Insights Investment Platform!
+
+You: exit
+
+Assistant: Thank you for using Insights! Session saved. Your ID is: 578060cf
+[1m[7m%[27m[1m[0m                                                                                                                                                       
+ 
+
+[0m[27m[24m[J(base) santiagofajardoavendano@Santiagos-MacBook-Pro-7 agente-wm % [K[?2004heexit[?2004l
+
+
+Script done on Fri Mar 13 12:26:20 2026
