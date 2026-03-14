@@ -449,7 +449,7 @@ INICIO → INTENCIÓN → RECOPILACIÓN → ROUTING_LOOKUP
         demo_escenario2.txt: R01
         demo_escenario1.txt: R03
 
-    Tambien tiene un link de YouTube, con el chatbot para tambien ver su correcto funcionamiento.
+    Tambien tiene un link de YouTube, con el chatbot de telegram para tambien ver su correcto funcionamiento: https://youtu.be/7LkPVGCboxU?si=_njUDiLJk_41Hjvs
 
     Reflexion: 
     Construir este agente me permitió entender en la práctica la diferencia entre
